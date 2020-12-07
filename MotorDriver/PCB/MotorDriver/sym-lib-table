@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name motor_symbols)(type Legacy)(uri ${KIPRJMOD}/motor_symbols.lib)(options "")(descr ""))
+  (lib (name MotorDriver-rescue)(type Legacy)(uri ${KIPRJMOD}/MotorDriver-rescue.lib)(options "")(descr ""))
+)

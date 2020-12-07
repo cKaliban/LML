@@ -1,0 +1,15 @@
+{
+    "0": "Save",
+    "_PORT_": "COM6",
+    "_BAUD_": "115200",
+    "_KP_": "1",
+    "_KI_": "2",
+    "_KD_": "2",
+    "_TP_": "100",
+    "_T_TOL_": "100",
+    "_FREQ_": "200",
+    "_MAX_DUTY_": "15",
+    "_INIT_DUTY_": "10",
+    "_MONITOR_T_": false,
+    "_MONITOR_PWM_": false
+}

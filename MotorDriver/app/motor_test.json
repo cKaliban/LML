@@ -1,0 +1,8 @@
+{
+    "_ENABLE_CONTROL_": false,
+    "_PORT_": "COM5",
+    "_BAUD_": "115200",
+    "_SPEED_": "1000",
+    "_FIRST_LAYER_": "5",
+    "_LAYERS_": "5"
+}
