@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "..\\app_rework"
 		},
 		{
-			"path": "..\\app_rework"
+			"path": "."
 		},
 		{
 			"path": "..\\app_system_modelling"
